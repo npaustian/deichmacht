@@ -1,0 +1,5 @@
+Hallo,
+Das Programm wurde in Python 3.7 mit PyCharm auf dem Betriebsystem MacOS geschrieben und nicht auf Windows getestet. In der Theorie sollte es auch auf Windows 10 sowie Linux (Ubuntu) funktionieren.
+Die Datei „config.ini“ darf nicht an dritte weitergegeben werden.
+
+Die Datei StartLog muss ausgeführt werden um das Programm zu starten.

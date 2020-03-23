@@ -1,0 +1,87 @@
+2019-12-22 17:14:00 CPU-Auslastung: 2.5%
+2019-12-22 17:14:00 RAM-Auslastung: 58.8%
+2019-12-22 17:14:00 SSD-Frei Warnung: 28.8%
+2019-12-22 17:14:01 CPU-Auslastung: 3.8%
+2019-12-22 17:14:01 RAM-Auslastung: 58.3%
+2019-12-22 17:14:01 SSD-Frei Warnung: 28.8%
+2019-12-22 17:14:02 CPU-Auslastung: 4.8%
+2019-12-22 17:14:02 RAM-Auslastung: 58.3%
+2019-12-22 17:14:02 SSD-Frei Warnung: 28.8%
+2019-12-22 17:14:03 CPU-Kritisch: 5.1%
+2019-12-22 17:14:03 RAM-Auslastung: 58.3%
+2019-12-22 17:14:03 SSD-Frei Warnung: 28.8%
+2019-12-22 17:58:56 CPU-Auslastung: 2.7%
+2019-12-22 17:58:56 RAM-Auslastung: 57.0%
+2019-12-22 17:58:56 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:03 CPU-Auslastung: 1.1%
+2019-12-22 17:59:03 RAM-Auslastung: 55.9%
+2019-12-22 17:59:03 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:30 CPU-Auslastung: 1.9%
+2019-12-22 17:59:30 RAM-Auslastung: 56.8%
+2019-12-22 17:59:30 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:32 CPU-Kritisch: 5.4%
+2019-12-22 17:59:32 RAM-Auslastung: 56.1%
+2019-12-22 17:59:32 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:34 CPU-Auslastung: 4.7%
+2019-12-22 17:59:34 RAM-Auslastung: 56.0%
+2019-12-22 17:59:34 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:36 CPU-Auslastung: 0.8%
+2019-12-22 17:59:36 RAM-Auslastung: 55.8%
+2019-12-22 17:59:36 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:38 CPU-Auslastung: 4.0%
+2019-12-22 17:59:38 RAM-Auslastung: 56.0%
+2019-12-22 17:59:38 SSD-Frei Warnung: 28.9%
+2019-12-22 17:59:40 CPU-Kritisch: 6.7%
+2019-12-22 17:59:40 RAM-Auslastung: 56.1%
+2019-12-22 17:59:40 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:48 CPU-Auslastung: 1.7%
+2019-12-22 18:01:48 RAM-Auslastung: 56.8%
+2019-12-22 18:01:48 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:49 CPU-Auslastung: 3.6%
+2019-12-22 18:01:49 RAM-Auslastung: 56.2%
+2019-12-22 18:01:49 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:50 CPU-Auslastung: 2.6%
+2019-12-22 18:01:50 RAM-Auslastung: 56.2%
+2019-12-22 18:01:50 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:51 CPU-Auslastung: 2.2%
+2019-12-22 18:01:51 RAM-Auslastung: 56.1%
+2019-12-22 18:01:51 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:52 CPU-Auslastung: 2.0%
+2019-12-22 18:01:52 RAM-Auslastung: 56.0%
+2019-12-22 18:01:52 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:53 CPU-Kritisch: 8.1%
+2019-12-22 18:01:53 RAM-Auslastung: 55.9%
+2019-12-22 18:01:53 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:54 CPU-Kritisch: 5.6%
+2019-12-22 18:01:54 RAM-Auslastung: 56.0%
+2019-12-22 18:01:54 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:55 CPU-Auslastung: 3.1%
+2019-12-22 18:01:55 RAM-Auslastung: 56.0%
+2019-12-22 18:01:55 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:56 CPU-Auslastung: 4.9%
+2019-12-22 18:01:56 RAM-Auslastung: 56.0%
+2019-12-22 18:01:56 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:57 CPU-Auslastung: 4.4%
+2019-12-22 18:01:57 RAM-Auslastung: 56.0%
+2019-12-22 18:01:57 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:58 CPU-Kritisch: 6.6%
+2019-12-22 18:01:58 RAM-Auslastung: 56.0%
+2019-12-22 18:01:58 SSD-Frei Warnung: 28.9%
+2019-12-22 18:01:59 CPU-Auslastung: 4.7%
+2019-12-22 18:01:59 RAM-Auslastung: 56.0%
+2019-12-22 18:01:59 SSD-Frei Warnung: 28.9%
+2019-12-22 18:02:00 CPU-Kritisch: 6.6%
+2019-12-22 18:02:00 RAM-Auslastung: 56.2%
+2019-12-22 18:02:00 SSD-Frei Warnung: 28.9%
+22-12-2019 18:07:22 CPU-Auslastung: 3.7%
+22-12-2019 18:07:22 RAM-Auslastung: 55.7%
+22-12-2019 18:07:22 SSD-Frei Warnung: 28.9%
+22-12-2019 18:07:23 CPU-Auslastung: 2.0%
+22-12-2019 18:07:23 RAM-Auslastung: 55.3%
+22-12-2019 18:07:23 SSD-Frei Warnung: 28.9%
+22-12-2019 18:07:24 CPU-Kritisch: 5.6%
+22-12-2019 18:07:24 RAM-Auslastung: 55.3%
+22-12-2019 18:07:24 SSD-Frei Warnung: 28.9%
+22-12-2019 18:07:25 CPU-Auslastung: 4.6%
+22-12-2019 18:07:25 RAM-Auslastung: 55.2%
+22-12-2019 18:07:25 SSD-Frei Warnung: 28.9%
